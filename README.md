@@ -24,13 +24,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+obejtivo dee utilizar fotos comuns das pessoas e fazer uma projeção de emagrecimento ou ganho de massa corporal para cada etapada de evolução de uma pessoa, afim dee estimular a permanencia dos treeinos e dieta
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+stable difusion, Lora, Civitai
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+a partir dee um banco de dados de modelos e Lora's do civitai, juntei os melhores modelos que permitiam manter o rosto e feições das pessoas e junto disso incluir o ganho de massa ou perda de gordura.
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
